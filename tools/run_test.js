@@ -193,7 +193,7 @@ function getRemoteWebDriver(browser) {
   switch (browser) {
     case 'chrome':
       caps['browserName'] = 'chrome';
-      caps['platform'] = 'Windows 10';
+      caps['platform'] = 'linux';
       break;
 
     case 'firefox':
