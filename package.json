@@ -1,5 +1,5 @@
 {
-  "name": "lovefield",
+  "name": "@mizchi/lovefield",
   "version": "2.1.11",
   "main": "dist/lovefield.min.js",
   "description": "Lovefield - A relational database for web apps",
